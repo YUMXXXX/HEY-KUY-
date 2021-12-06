@@ -97,10 +97,10 @@ function create:Win()
    Main.ClipsDescendants = true 
    Main.AnchorPoint = Vector2.new(0.5, 0.5)
 
-   local Logo = Instance.new("ImageLabel")
+   local Logo = Instance.new("https://www.roblox.com/catalog/4904654004/Shadowed-Head")
    
    
-   Logo.Name = "KAMEN"
+   Logo.Name = "Logo"
    Logo.Parent = Main
    Logo.AnchorPoint = Vector2.new(0.5, 0.5)
    Logo.Position = UDim2.new(0.1, 0, 0.08, 0)
