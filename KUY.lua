@@ -97,7 +97,7 @@ function create:Win()
    Main.ClipsDescendants = true 
    Main.AnchorPoint = Vector2.new(0.5, 0.5)
 
-   local Logo = Instance.new("https://www.roblox.com/catalog/4904654004/Shadowed-Head")
+   local Logo = Instance.new("rbxassetid://3016412575")
    
    
    Logo.Name = "Logo"
